@@ -1,5 +1,7 @@
 # CERN Competency Model Score App
 
+The app is available at [cern-competency-model.danslinky.co.uk/](https://cern-competency-model.danslinky.co.uk/)
+
 > Enabling excellence through balance
 
 The CERN Competency Model is a reference document which aims to provide consistency and coherence across the organisational HR-related processes. Further details can be consulted at [hr.web.cern.ch/the-cern-competency-model](https://hr.web.cern.ch/the-cern-competency-model)
