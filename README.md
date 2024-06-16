@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# CERN Competency Model Score App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Enabling excellence through balance
 
-## Available Scripts
+The CERN Competency Model is a reference document which aims to provide consistency and coherence across the organisational HR-related processes. Further details can be consulted at [hr.web.cern.ch/the-cern-competency-model](https://hr.web.cern.ch/the-cern-competency-model)
 
-In the project directory, you can run:
+## CERN Values
 
-### `npm start`
+- __INTEGRITY__: Behaving ethically, with intellectual honesty and being accountable for one’s own acction.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- __COMMITMENT__: Demonstrating a high level of motivation and dedication CERN.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- __PROFESSIONALISM__: Producing a high level of results within resource and time constraints and fostering mutual understanding.
 
-### `npm test`
+- __CREATIVITY__: Being at the forefront of one’s professional field, furthering innovation and organisational development
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- __DIVERSITY__: Appreciating differences, fostering equality and promoting collaboration
 
-### `npm run build`
+## Technical Competencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+__TECHNICAL COMPETENCIES__ have been identified from the main domains of expertise at CERN. Each domain is further divided into sub-domains with a corresponding list of competencies attached to it.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The Technical Competencies list has been elaborated in collaboration with representatives of all CERN Departments and the Staff Association. The Technical Competencies are organised in Domains and Sub-domains.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The __Technical Domains__ are:
 
-### `npm run eject`
+ - Civil Engineering & Survey
+ - Electrical Engineering
+ - Electronic Engineering
+ - Finance and Procurement
+ - Health, Safety and Environment
+ - Human Resources
+ - Information & Communication Technologies
+ - Languages
+ - Legal
+ - Management
+ - Materials and Surface Science
+ - Mechanical Engineering
+ - Physics
+ - Services
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Behavioural Competencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+__BEHAVIOURAL COMPETENCIES__ have been defined as the way in which work is carried out and each competency has been illustrated with indicators of effective and ineffective behaviour. The behavioural competencies identified for CERN consist of ten core competencies applicable to all staff members and five leadership competencies applicable to staff members in corresponding roles.
