@@ -1,4 +1,6 @@
-# CERN Competency Model Score App
+# UNOFFICIAL CERN Competency Model Score App
+
+__UNOFFICIAL. NOT ASSOCIATED WITH CERN HR.__
 
 The app is available at [cern-competency-model.danslinky.co.uk/](https://cern-competency-model.danslinky.co.uk/)
 
